@@ -1,0 +1,6 @@
+== AFTER ==
+NAME      READY   STATUS    RESTARTS   AGE   IP            NODE       NOMINATED NODE   READINESS GATES
+mongo-1   1/1     Running   0          37s   10.244.0.19   minikube   <none>           <none>
+NAME           STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+data-mongo-1   Bound    pvc-3366494c-9b49-4a50-aae0-0addaeb8cb1b   1Gi        RWO            standard       <unset>                 25m
+9
