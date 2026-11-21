@@ -1,0 +1,10 @@
+NAME                       READY   STATUS      RESTARTS   AGE
+emi-web-69864c997f-djzb6   1/1     Running     0          110s
+emi-web-69864c997f-h69c7   1/1     Running     1          57m
+emi-web-69864c997f-r5fn9   1/1     Running     0          110s
+emi-web-69864c997f-xttsb   1/1     Running     1          57m
+emi-web-69864c997f-z4lj5   1/1     Running     1          57m
+mongo-0                    1/1     Running     0          57m
+mongo-1                    1/1     Running     0          31m
+mongo-2                    1/1     Running     0          56m
+mongo-init-v7nwr           0/1     Completed   0          57m
